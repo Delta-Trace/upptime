@@ -4,17 +4,19 @@
     "url": "https://deltatd.thetracerdevice.com",
     "icon": "https://icons.duckduckgo.com/ip3/deltatd.thetracerdevice.com.ico",
     "slug": "delta-t",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4248,
-    "timeDay": 4248,
+    "timeDay": 1807,
     "timeWeek": 4248,
     "timeMonth": 4248,
     "timeYear": 4248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   }
 ]
