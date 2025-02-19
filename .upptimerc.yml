@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Delta-T
     url: https://deltat.thetracerdevice.com
-  #- name: Wikipedia
-  #  url: https://en.wikipedia.org
+  - name: Delta-C
+    url: https://deltac.thetracerdevice.com
   #- name: Hacker News
   #  url: https://news.ycombinator.com
   #- name: Test Broken Site
