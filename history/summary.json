@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltat.thetracerdevice.com.ico",
     "slug": "delta-t",
     "status": "down",
-    "uptime": "69.35%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "92.37%",
+    "uptime": "69.34%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "92.14%",
     "uptimeMonth": "24.87%",
-    "uptimeYear": "69.35%",
+    "uptimeYear": "69.34%",
     "time": 3457,
     "timeDay": 1364,
     "timeWeek": 2607,
     "timeMonth": 4286,
     "timeYear": 3457,
     "dailyMinutesDown": {
-      "2025-02-21": 1,
+      "2025-02-21": 24,
       "2025-02-19": 312,
       "2025-02-17": 72,
       "2025-02-15": 384,
@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltac.thetracerdevice.com.ico",
     "slug": "delta-c",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.97%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
     "time": 1785,
     "timeDay": 1749,
     "timeWeek": 1785,
     "timeMonth": 1785,
     "timeYear": 1785,
     "dailyMinutesDown": {
-      "2025-02-21": 0
+      "2025-02-21": 23
     }
   }
 ]
