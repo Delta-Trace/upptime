@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltat.thetracerdevice.com.ico",
     "slug": "delta-t",
     "status": "up",
-    "uptime": "91.64%",
+    "uptime": "91.65%",
     "uptimeDay": "81.38%",
     "uptimeWeek": "97.01%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "90.88%",
-    "time": 2718,
-    "timeDay": 3047,
-    "timeWeek": 2717,
-    "timeMonth": 2403,
+    "time": 2717,
+    "timeDay": 3122,
+    "timeWeek": 2435,
+    "timeMonth": 2420,
     "timeYear": 2735,
     "dailyMinutesDown": {
       "2025-12-20": 268,
@@ -86,8 +86,7 @@
       "2025-01-14": 1120,
       "2025-01-13": 620,
       "2025-01-12": 21,
-      "2024-12-24": 18,
-      "2024-12-21": 16
+      "2024-12-24": 18
     }
   },
   {
@@ -101,11 +100,11 @@
     "uptimeWeek": "97.02%",
     "uptimeMonth": "95.46%",
     "uptimeYear": "98.98%",
-    "time": 2160,
-    "timeDay": 2279,
-    "timeWeek": 2179,
-    "timeMonth": 2073,
-    "timeYear": 2160,
+    "time": 2172,
+    "timeDay": 4353,
+    "timeWeek": 2639,
+    "timeMonth": 2217,
+    "timeYear": 2172,
     "dailyMinutesDown": {
       "2025-12-20": 268,
       "2025-12-17": 33,
