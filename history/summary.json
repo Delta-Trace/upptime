@@ -4,17 +4,17 @@
     "url": "https://deltat.thetracerdevice.com",
     "icon": "https://icons.duckduckgo.com/ip3/deltat.thetracerdevice.com.ico",
     "slug": "delta-t",
-    "status": "down",
-    "uptime": "92.84%",
-    "uptimeDay": "75.45%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "87.80%",
-    "uptimeYear": "97.70%",
-    "time": 2467,
-    "timeDay": 18247,
-    "timeWeek": 3630,
-    "timeMonth": 2264,
-    "timeYear": 2242,
+    "status": "up",
+    "uptime": "92.82%",
+    "uptimeDay": "73.28%",
+    "uptimeWeek": "79.50%",
+    "uptimeMonth": "87.51%",
+    "uptimeYear": "97.67%",
+    "time": 2460,
+    "timeDay": 1339,
+    "timeWeek": 3375,
+    "timeMonth": 2245,
+    "timeYear": 2240,
     "dailyMinutesDown": {
       "2025-06-11": 26,
       "2025-07-03": 15,
@@ -75,7 +75,7 @@
       "2026-05-23": 646,
       "2026-05-22": 353,
       "2026-05-24": 354,
-      "2026-05-25": 238
+      "2026-05-25": 365
     }
   },
   {
@@ -83,17 +83,17 @@
     "url": "https://deltac.thetracerdevice.com",
     "icon": "https://icons.duckduckgo.com/ip3/deltac.thetracerdevice.com.ico",
     "slug": "delta-c",
-    "status": "down",
-    "uptime": "97.83%",
-    "uptimeDay": "75.78%",
-    "uptimeWeek": "80.18%",
-    "uptimeMonth": "87.95%",
-    "uptimeYear": "97.55%",
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "73.62%",
+    "uptimeWeek": "79.69%",
+    "uptimeMonth": "87.66%",
+    "uptimeYear": "97.53%",
     "time": 2086,
-    "timeDay": 1920,
-    "timeWeek": 1820,
-    "timeMonth": 1700,
-    "timeYear": 2115,
+    "timeDay": 1630,
+    "timeWeek": 1799,
+    "timeMonth": 1699,
+    "timeYear": 2114,
     "dailyMinutesDown": {
       "2025-06-11": 26,
       "2025-08-02": 71,
@@ -154,7 +154,7 @@
       "2026-05-23": 641,
       "2026-05-22": 348,
       "2026-05-24": 349,
-      "2026-05-25": 239
+      "2026-05-25": 365
     }
   }
 ]
