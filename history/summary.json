@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltat.thetracerdevice.com.ico",
     "slug": "delta-t",
     "status": "down",
-    "uptime": "92.87%",
+    "uptime": "92.84%",
     "uptimeDay": "75.45%",
-    "uptimeWeek": "82.45%",
-    "uptimeMonth": "88.38%",
-    "uptimeYear": "97.75%",
-    "time": 2473,
+    "uptimeWeek": "79.94%",
+    "uptimeMonth": "87.80%",
+    "uptimeYear": "97.70%",
+    "time": 2467,
     "timeDay": 18247,
-    "timeWeek": 3429,
+    "timeWeek": 3630,
     "timeMonth": 2264,
     "timeYear": 2242,
     "dailyMinutesDown": {
@@ -74,7 +74,8 @@
       "2026-05-20": 200,
       "2026-05-23": 646,
       "2026-05-22": 353,
-      "2026-05-24": 339
+      "2026-05-24": 354,
+      "2026-05-25": 238
     }
   },
   {
@@ -83,14 +84,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltac.thetracerdevice.com.ico",
     "slug": "delta-c",
     "status": "down",
-    "uptime": "97.87%",
+    "uptime": "97.83%",
     "uptimeDay": "75.78%",
-    "uptimeWeek": "82.69%",
-    "uptimeMonth": "88.53%",
-    "uptimeYear": "97.60%",
+    "uptimeWeek": "80.18%",
+    "uptimeMonth": "87.95%",
+    "uptimeYear": "97.55%",
     "time": 2086,
     "timeDay": 1920,
-    "timeWeek": 1812,
+    "timeWeek": 1820,
     "timeMonth": 1700,
     "timeYear": 2115,
     "dailyMinutesDown": {
@@ -152,7 +153,8 @@
       "2026-05-20": 195,
       "2026-05-23": 641,
       "2026-05-22": 348,
-      "2026-05-24": 334
+      "2026-05-24": 349,
+      "2026-05-25": 239
     }
   }
 ]
