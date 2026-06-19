@@ -7,6 +7,8 @@ sites:
     url: https://deltat.thetracerdevice.com
   - name: Delta-C
     url: https://deltac.thetracerdevice.com
+  - name: Delta-W
+    url: https://deltaw.thetracerdevice.com
   #- name: Hacker News
   #  url: https://news.ycombinator.com
   #- name: Test Broken Site
