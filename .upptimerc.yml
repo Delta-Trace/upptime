@@ -9,6 +9,8 @@ sites:
     url: https://deltac.thetracerdevice.com
   - name: Delta-W
     url: https://deltaw.thetracerdevice.com
+  - name: Dog
+    url: https://dogggyaa.com
   #- name: Hacker News
   #  url: https://news.ycombinator.com
   #- name: Test Broken Site
