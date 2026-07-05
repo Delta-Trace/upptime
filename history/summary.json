@@ -4,13 +4,13 @@
     "url": "https://deltat.thetracerdevice.com",
     "icon": "https://icons.duckduckgo.com/ip3/deltat.thetracerdevice.com.ico",
     "slug": "delta-t",
-    "status": "up",
-    "uptime": "90.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.59%",
+    "status": "down",
+    "uptime": "90.09%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "67.13%",
     "uptimeYear": "92.38%",
-    "time": 2274,
+    "time": 2275,
     "timeDay": 1455,
     "timeWeek": 1540,
     "timeMonth": 1586,
@@ -93,7 +93,8 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
-      "2026-05-28": 1440
+      "2026-05-28": 1440,
+      "2026-07-05": 1
     }
   },
   {
@@ -105,7 +106,7 @@
     "uptime": "94.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.59%",
+    "uptimeMonth": "67.13%",
     "uptimeYear": "92.23%",
     "time": 2063,
     "timeDay": 1496,
