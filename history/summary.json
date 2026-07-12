@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltat.thetracerdevice.com.ico",
     "slug": "delta-t",
     "status": "down",
-    "uptime": "90.18%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.63%",
+    "uptime": "90.15%",
+    "uptimeDay": "79.99%",
+    "uptimeWeek": "95.86%",
     "uptimeMonth": "87.56%",
-    "uptimeYear": "92.35%",
-    "time": 2261,
-    "timeDay": 1856,
-    "timeWeek": 1552,
+    "uptimeYear": "92.30%",
+    "time": 2262,
+    "timeDay": 0,
+    "timeWeek": 1564,
     "timeMonth": 1581,
     "timeYear": 2212,
     "dailyMinutesDown": {
@@ -95,7 +95,8 @@
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-07-05": 128,
-      "2026-07-11": 10
+      "2026-07-12": 172,
+      "2026-07-11": 116
     }
   },
   {
@@ -104,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltac.thetracerdevice.com.ico",
     "slug": "delta-c",
     "status": "down",
-    "uptime": "94.20%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.35%",
+    "uptime": "94.16%",
+    "uptimeDay": "80.32%",
+    "uptimeWeek": "96.59%",
     "uptimeMonth": "87.72%",
-    "uptimeYear": "92.22%",
+    "uptimeYear": "92.16%",
     "time": 2057,
-    "timeDay": 1524,
-    "timeWeek": 1550,
+    "timeDay": 0,
+    "timeWeek": 1558,
     "timeMonth": 1600,
-    "timeYear": 2058,
+    "timeYear": 2057,
     "dailyMinutesDown": {
       "2025-08-02": 71,
       "2025-08-10": 173,
@@ -195,7 +196,8 @@
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-07-05": 60,
-      "2026-07-11": 5
+      "2026-07-12": 172,
+      "2026-07-11": 111
     }
   },
   {
@@ -204,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/deltaw.thetracerdevice.com.ico",
     "slug": "delta-w",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.14%",
+    "uptimeDay": "80.66%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 1895,
-    "timeDay": 1500,
-    "timeWeek": 1469,
+    "timeDay": 0,
+    "timeWeek": 1462,
     "timeMonth": 1895,
     "timeYear": 1895,
     "dailyMinutesDown": {
-      "2026-07-11": 0
+      "2026-07-12": 172,
+      "2026-07-11": 106
     }
   }
 ]
