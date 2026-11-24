@@ -4,16 +4,16 @@
     "url": "https://deltat.thetracerdevice.com",
     "icon": "https://icons.duckduckgo.com/ip3/deltat.thetracerdevice.com.ico",
     "slug": "delta-t",
-    "status": "up",
-    "uptime": "91.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.19%",
-    "uptimeMonth": "96.13%",
+    "status": "down",
+    "uptime": "91.67%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "83.10%",
+    "uptimeMonth": "96.11%",
     "uptimeYear": "91.94%",
-    "time": 2104,
-    "timeDay": 1697,
-    "timeWeek": 1568,
-    "timeMonth": 1738,
+    "time": 2094,
+    "timeDay": 0,
+    "timeWeek": 1627,
+    "timeMonth": 1726,
     "timeYear": 1986,
     "dailyMinutesDown": {
       "2025-12-03": 92,
@@ -87,7 +87,8 @@
       "2026-08-01": 831,
       "2026-07-31": 134,
       "2026-11-19": 1305,
-      "2026-11-18": 389
+      "2026-11-18": 389,
+      "2026-11-24": 10
     }
   },
   {
@@ -95,16 +96,16 @@
     "url": "https://deltac.thetracerdevice.com",
     "icon": "https://icons.duckduckgo.com/ip3/deltac.thetracerdevice.com.ico",
     "slug": "delta-c",
-    "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.05%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "91.90%",
+    "status": "down",
+    "uptime": "95.13%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "88.00%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "91.89%",
     "time": 1945,
-    "timeDay": 1701,
-    "timeWeek": 1608,
-    "timeMonth": 1846,
+    "timeDay": 0,
+    "timeWeek": 1667,
+    "timeMonth": 1853,
     "timeYear": 1839,
     "dailyMinutesDown": {
       "2025-12-03": 92,
@@ -179,7 +180,8 @@
       "2026-08-01": 826,
       "2026-07-31": 129,
       "2026-11-19": 820,
-      "2026-11-18": 384
+      "2026-11-18": 384,
+      "2026-11-24": 5
     }
   },
   {
@@ -187,16 +189,16 @@
     "url": "https://deltaw.thetracerdevice.com",
     "icon": "https://icons.duckduckgo.com/ip3/deltaw.thetracerdevice.com.ico",
     "slug": "delta-w",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.12%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "88.10%",
     "uptimeMonth": "97.26%",
-    "uptimeYear": "98.11%",
+    "uptimeYear": "98.12%",
     "time": 1666,
-    "timeDay": 1688,
-    "timeWeek": 1627,
-    "timeMonth": 1588,
+    "timeDay": 0,
+    "timeWeek": 1675,
+    "timeMonth": 1591,
     "timeYear": 1666,
     "dailyMinutesDown": {
       "2026-07-12": 431,
@@ -206,7 +208,8 @@
       "2026-10-16": 696,
       "2026-10-15": 886,
       "2026-11-19": 821,
-      "2026-11-18": 379
+      "2026-11-18": 379,
+      "2026-11-24": 0
     }
   }
 ]
